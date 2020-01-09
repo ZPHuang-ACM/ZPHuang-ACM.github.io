@@ -5,15 +5,16 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    
+# ymal supports single line comments
+#- title: "Teaching"
+#  url: /teaching/    
     
   - title: "Online Course"
     url: /online-course/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+# - title: "Blog Posts"
+#   url: /year-archive/
     
   - title: "CV"
     url: /cv/
