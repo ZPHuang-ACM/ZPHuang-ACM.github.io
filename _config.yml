@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zipeng Huang"
-  avatar           : "bio-photo-1.jpg"
+  avatar           : "bio-photo-2.jpg"
   bio              : "test"
   location         : "Halifax"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZPHuang-ACM"
+  github           : "https://zphuang-acm.github.io/"
   google_plus      :
   keybase          :
   instagram        :
