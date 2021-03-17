@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zipeng Huang / PhD Candidate"
+title                    : "Zipeng Huang"
 title_separator          : "-"
 name                     : &name "Zipeng Huang"
 description              : &description "Expected to graduate in December 2021"
