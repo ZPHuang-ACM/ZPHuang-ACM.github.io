@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: / <!-- / is the root url, by specifying in this way, about me is our main page -->
 title: "About me"
 excerpt: "About me"
 author_profile: true
