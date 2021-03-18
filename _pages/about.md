@@ -12,9 +12,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-*Ph.D. in Mechanical Engineering, Dalhousie University (2018-present)
-*M.A.Sc. in Mechanical Engineering, Dalhousie University (2015-2017)
-*B.Eng. in Mechanical Engineering, Dalhousie University (2013-2015)
+* Ph.D. in Mechanical Engineering, Dalhousie University (2018-present)
+* M.A.Sc. in Mechanical Engineering, Dalhousie University (2015-2017)
+* B.Eng. in Mechanical Engineering, Dalhousie University (2013-2015)
 
 A data-driven personal website
 ======
