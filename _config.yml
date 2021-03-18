@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zipeng Huang"
   avatar           : "zipeng1.jpg"
-  bio              : "Mechanical Engineering Graduate student at Dalhousie University"
+  bio              : # "Mechanical Engineering Graduate student at Dalhousie University"
   location         : # "Halifax"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
